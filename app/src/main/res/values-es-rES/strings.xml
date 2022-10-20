@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor de unidades</string>
+    <string name="button2">Temperatura</string>
+    <string name="button">Longitud</string>
+    <string name="button3">Masa</string>
+    <string name="calcular">Calcular</string>
+    <string name="ResultadoTemperatura">Resultado</string>
+    <string name="calcular2">Calcular</string>
+    <string name="ResultadoLongitud">Resultado</string>
+    <string name="calcular3">Calcular</string>
+    <string name="ResultadoMasa">Resultado</string>
+</resources>
